@@ -1,4 +1,4 @@
-# Ohjelmistokehittaja :snowflake::computer::mortar_board:
+# Ohjelmistokehittaja :snowflake::computer:
 
 Hello! This is my repo for "Ohjelmistokehittäjänä toimiminen" course at Keuda. 
 
