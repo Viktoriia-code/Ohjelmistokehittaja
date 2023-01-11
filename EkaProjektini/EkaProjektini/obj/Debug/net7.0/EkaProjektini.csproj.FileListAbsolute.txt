@@ -1,0 +1,15 @@
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\obj\Debug\net7.0\EkaProjektini.csproj.AssemblyReference.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\obj\Debug\net7.0\EkaProjektini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\obj\Debug\net7.0\EkaProjektini.AssemblyInfoInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\obj\Debug\net7.0\EkaProjektini.AssemblyInfo.cs
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\obj\Debug\net7.0\EkaProjektini.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\bin\Debug\net7.0\EkaProjektini.exe
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\bin\Debug\net7.0\EkaProjektini.deps.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\bin\Debug\net7.0\EkaProjektini.runtimeconfig.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\bin\Debug\net7.0\EkaProjektini.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\bin\Debug\net7.0\EkaProjektini.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\obj\Debug\net7.0\EkaProjektini.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\obj\Debug\net7.0\refint\EkaProjektini.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\obj\Debug\net7.0\EkaProjektini.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\obj\Debug\net7.0\EkaProjektini.genruntimeconfig.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\obj\Debug\net7.0\ref\EkaProjektini.dll
