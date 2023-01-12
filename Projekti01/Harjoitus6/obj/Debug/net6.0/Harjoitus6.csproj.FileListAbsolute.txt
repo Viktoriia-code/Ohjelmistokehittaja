@@ -1,0 +1,15 @@
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Harjoitus6\bin\Debug\net6.0\Harjoitus6.exe
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Harjoitus6\bin\Debug\net6.0\Harjoitus6.deps.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Harjoitus6\bin\Debug\net6.0\Harjoitus6.runtimeconfig.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Harjoitus6\bin\Debug\net6.0\Harjoitus6.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Harjoitus6\bin\Debug\net6.0\Harjoitus6.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Harjoitus6\obj\Debug\net6.0\Harjoitus6.csproj.AssemblyReference.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Harjoitus6\obj\Debug\net6.0\Harjoitus6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Harjoitus6\obj\Debug\net6.0\Harjoitus6.AssemblyInfoInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Harjoitus6\obj\Debug\net6.0\Harjoitus6.AssemblyInfo.cs
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Harjoitus6\obj\Debug\net6.0\Harjoitus6.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Harjoitus6\obj\Debug\net6.0\Harjoitus6.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Harjoitus6\obj\Debug\net6.0\refint\Harjoitus6.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Harjoitus6\obj\Debug\net6.0\Harjoitus6.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Harjoitus6\obj\Debug\net6.0\Harjoitus6.genruntimeconfig.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Harjoitus6\obj\Debug\net6.0\ref\Harjoitus6.dll

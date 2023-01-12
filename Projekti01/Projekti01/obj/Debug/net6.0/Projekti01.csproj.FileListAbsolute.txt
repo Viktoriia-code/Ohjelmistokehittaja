@@ -1,0 +1,15 @@
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Projekti01\bin\Debug\net6.0\Projekti01.exe
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Projekti01\bin\Debug\net6.0\Projekti01.deps.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Projekti01\bin\Debug\net6.0\Projekti01.runtimeconfig.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Projekti01\bin\Debug\net6.0\Projekti01.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Projekti01\bin\Debug\net6.0\Projekti01.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Projekti01\obj\Debug\net6.0\Projekti01.csproj.AssemblyReference.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Projekti01\obj\Debug\net6.0\Projekti01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Projekti01\obj\Debug\net6.0\Projekti01.AssemblyInfoInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Projekti01\obj\Debug\net6.0\Projekti01.AssemblyInfo.cs
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Projekti01\obj\Debug\net6.0\Projekti01.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Projekti01\obj\Debug\net6.0\Projekti01.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Projekti01\obj\Debug\net6.0\refint\Projekti01.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Projekti01\obj\Debug\net6.0\Projekti01.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Projekti01\obj\Debug\net6.0\Projekti01.genruntimeconfig.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Projekti01\Projekti01\obj\Debug\net6.0\ref\Projekti01.dll
