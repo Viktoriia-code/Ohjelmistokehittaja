@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projekti01", "Projekti01\Projekti01.csproj", "{C5F23951-E9B0-4624-8DE2-31FFBB2A7E7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projekti01", "Projekti01\Projekti01.csproj", "{C5F23951-E9B0-4624-8DE2-31FFBB2A7E7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmaNimi", "OmaNimi\OmaNimi.csproj", "{5311FC39-74B9-4D01-B608-858D429D79E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OmaNimi", "OmaNimi\OmaNimi.csproj", "{5311FC39-74B9-4D01-B608-858D429D79E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YksiNumerot", "YksiNumerot\YksiNumerot.csproj", "{605DB17F-02B0-4813-886E-71065EE1BC11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YksiNumerot", "YksiNumerot\YksiNumerot.csproj", "{605DB17F-02B0-4813-886E-71065EE1BC11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus6", "Harjoitus6\Harjoitus6.csproj", "{3EF505F4-BA3C-42AF-8E58-B02394E1ACF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus6", "Harjoitus6\Harjoitus6.csproj", "{3EF505F4-BA3C-42AF-8E58-B02394E1ACF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime", "DateTime\DateTime.csproj", "{9CEEFE23-FD36-42D4-A8CD-CA2BEF6825E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTime", "DateTime\DateTime.csproj", "{9CEEFE23-FD36-42D4-A8CD-CA2BEF6825E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", "{AB695E32-B250-4484-9DFB-57FB73A426C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math", "Math\Math.csproj", "{AB695E32-B250-4484-9DFB-57FB73A426C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LumoAkatemiaTehtavat", "LumoAkatemiaTehtavat\LumoAkatemiaTehtavat.csproj", "{1C0E519E-554A-4577-9F56-5EA82BA10DEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{AB695E32-B250-4484-9DFB-57FB73A426C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB695E32-B250-4484-9DFB-57FB73A426C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB695E32-B250-4484-9DFB-57FB73A426C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C0E519E-554A-4577-9F56-5EA82BA10DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0E519E-554A-4577-9F56-5EA82BA10DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0E519E-554A-4577-9F56-5EA82BA10DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0E519E-554A-4577-9F56-5EA82BA10DEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
