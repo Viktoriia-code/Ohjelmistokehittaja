@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus1", "Dian24\Harjoitus1.csproj", "{9A9CB103-263E-4A1D-A045-3BE60D2B76CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus2", "Harjoitus2\Harjoitus2.csproj", "{37D33CE9-067C-4180-B919-A3ABD2A8FD6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus3", "Harjoitus3\Harjoitus3.csproj", "{9EF896B2-144F-49DF-A95F-DDBD4DCD718D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A9CB103-263E-4A1D-A045-3BE60D2B76CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A9CB103-263E-4A1D-A045-3BE60D2B76CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A9CB103-263E-4A1D-A045-3BE60D2B76CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A9CB103-263E-4A1D-A045-3BE60D2B76CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37D33CE9-067C-4180-B919-A3ABD2A8FD6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D33CE9-067C-4180-B919-A3ABD2A8FD6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D33CE9-067C-4180-B919-A3ABD2A8FD6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D33CE9-067C-4180-B919-A3ABD2A8FD6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EF896B2-144F-49DF-A95F-DDBD4DCD718D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF896B2-144F-49DF-A95F-DDBD4DCD718D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF896B2-144F-49DF-A95F-DDBD4DCD718D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF896B2-144F-49DF-A95F-DDBD4DCD718D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27E718CF-7AC9-414E-BF7E-9D64CBABCB60}
+	EndGlobalSection
+EndGlobal

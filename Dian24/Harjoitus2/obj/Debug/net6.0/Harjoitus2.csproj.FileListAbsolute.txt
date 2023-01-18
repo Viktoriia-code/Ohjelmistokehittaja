@@ -1,0 +1,15 @@
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian24\Harjoitus2\bin\Debug\net6.0\Harjoitus2.exe
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian24\Harjoitus2\bin\Debug\net6.0\Harjoitus2.deps.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian24\Harjoitus2\bin\Debug\net6.0\Harjoitus2.runtimeconfig.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian24\Harjoitus2\bin\Debug\net6.0\Harjoitus2.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian24\Harjoitus2\bin\Debug\net6.0\Harjoitus2.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian24\Harjoitus2\obj\Debug\net6.0\Harjoitus2.csproj.AssemblyReference.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian24\Harjoitus2\obj\Debug\net6.0\Harjoitus2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian24\Harjoitus2\obj\Debug\net6.0\Harjoitus2.AssemblyInfoInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian24\Harjoitus2\obj\Debug\net6.0\Harjoitus2.AssemblyInfo.cs
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian24\Harjoitus2\obj\Debug\net6.0\Harjoitus2.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian24\Harjoitus2\obj\Debug\net6.0\Harjoitus2.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian24\Harjoitus2\obj\Debug\net6.0\refint\Harjoitus2.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian24\Harjoitus2\obj\Debug\net6.0\Harjoitus2.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian24\Harjoitus2\obj\Debug\net6.0\Harjoitus2.genruntimeconfig.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian24\Harjoitus2\obj\Debug\net6.0\ref\Harjoitus2.dll

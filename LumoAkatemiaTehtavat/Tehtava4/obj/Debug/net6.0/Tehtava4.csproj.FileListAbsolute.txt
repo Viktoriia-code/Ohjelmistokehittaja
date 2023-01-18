@@ -1,0 +1,15 @@
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\Tehtava4\bin\Debug\net6.0\Tehtava4.exe
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\Tehtava4\bin\Debug\net6.0\Tehtava4.deps.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\Tehtava4\bin\Debug\net6.0\Tehtava4.runtimeconfig.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\Tehtava4\bin\Debug\net6.0\Tehtava4.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\Tehtava4\bin\Debug\net6.0\Tehtava4.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\Tehtava4\obj\Debug\net6.0\Tehtava4.csproj.AssemblyReference.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\Tehtava4\obj\Debug\net6.0\Tehtava4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\Tehtava4\obj\Debug\net6.0\Tehtava4.AssemblyInfoInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\Tehtava4\obj\Debug\net6.0\Tehtava4.AssemblyInfo.cs
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\Tehtava4\obj\Debug\net6.0\Tehtava4.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\Tehtava4\obj\Debug\net6.0\Tehtava4.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\Tehtava4\obj\Debug\net6.0\refint\Tehtava4.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\Tehtava4\obj\Debug\net6.0\Tehtava4.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\Tehtava4\obj\Debug\net6.0\Tehtava4.genruntimeconfig.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\Tehtava4\obj\Debug\net6.0\ref\Tehtava4.dll
