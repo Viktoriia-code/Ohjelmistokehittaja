@@ -1,0 +1,15 @@
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian68-69\Harjoitus4\bin\Debug\net6.0\Harjoitus4.exe
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian68-69\Harjoitus4\bin\Debug\net6.0\Harjoitus4.deps.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian68-69\Harjoitus4\bin\Debug\net6.0\Harjoitus4.runtimeconfig.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian68-69\Harjoitus4\bin\Debug\net6.0\Harjoitus4.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian68-69\Harjoitus4\bin\Debug\net6.0\Harjoitus4.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian68-69\Harjoitus4\obj\Debug\net6.0\Harjoitus4.csproj.AssemblyReference.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian68-69\Harjoitus4\obj\Debug\net6.0\Harjoitus4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian68-69\Harjoitus4\obj\Debug\net6.0\Harjoitus4.AssemblyInfoInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian68-69\Harjoitus4\obj\Debug\net6.0\Harjoitus4.AssemblyInfo.cs
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian68-69\Harjoitus4\obj\Debug\net6.0\Harjoitus4.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian68-69\Harjoitus4\obj\Debug\net6.0\Harjoitus4.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian68-69\Harjoitus4\obj\Debug\net6.0\refint\Harjoitus4.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian68-69\Harjoitus4\obj\Debug\net6.0\Harjoitus4.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian68-69\Harjoitus4\obj\Debug\net6.0\Harjoitus4.genruntimeconfig.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\Dian68-69\Harjoitus4\obj\Debug\net6.0\ref\Harjoitus4.dll
