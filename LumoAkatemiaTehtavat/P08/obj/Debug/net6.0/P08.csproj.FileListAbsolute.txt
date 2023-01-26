@@ -1,0 +1,15 @@
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P08\bin\Debug\net6.0\P08.exe
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P08\bin\Debug\net6.0\P08.deps.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P08\bin\Debug\net6.0\P08.runtimeconfig.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P08\bin\Debug\net6.0\P08.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P08\bin\Debug\net6.0\P08.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P08\obj\Debug\net6.0\P08.csproj.AssemblyReference.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P08\obj\Debug\net6.0\P08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P08\obj\Debug\net6.0\P08.AssemblyInfoInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P08\obj\Debug\net6.0\P08.AssemblyInfo.cs
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P08\obj\Debug\net6.0\P08.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P08\obj\Debug\net6.0\P08.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P08\obj\Debug\net6.0\refint\P08.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P08\obj\Debug\net6.0\P08.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P08\obj\Debug\net6.0\P08.genruntimeconfig.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P08\obj\Debug\net6.0\ref\P08.dll

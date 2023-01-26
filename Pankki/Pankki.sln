@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pankki", "Pankki\Pankki.csproj", "{6210C6BE-C52C-43D1-BA0B-ABBEADBB5F71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PankkiTesti", "PankkiTesti\PankkiTesti.csproj", "{1C6B001F-77D9-4162-B806-54C81050517A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6210C6BE-C52C-43D1-BA0B-ABBEADBB5F71} = {6210C6BE-C52C-43D1-BA0B-ABBEADBB5F71}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6210C6BE-C52C-43D1-BA0B-ABBEADBB5F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6210C6BE-C52C-43D1-BA0B-ABBEADBB5F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6210C6BE-C52C-43D1-BA0B-ABBEADBB5F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6210C6BE-C52C-43D1-BA0B-ABBEADBB5F71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C6B001F-77D9-4162-B806-54C81050517A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6B001F-77D9-4162-B806-54C81050517A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C6B001F-77D9-4162-B806-54C81050517A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C6B001F-77D9-4162-B806-54C81050517A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE691549-D833-4B07-A89D-968B5E74A2C3}
+	EndGlobalSection
+EndGlobal

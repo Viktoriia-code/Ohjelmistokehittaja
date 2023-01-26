@@ -1,0 +1,15 @@
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P13\bin\Debug\net6.0\P13.exe
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P13\bin\Debug\net6.0\P13.deps.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P13\bin\Debug\net6.0\P13.runtimeconfig.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P13\bin\Debug\net6.0\P13.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P13\bin\Debug\net6.0\P13.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P13\obj\Debug\net6.0\P13.csproj.AssemblyReference.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P13\obj\Debug\net6.0\P13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P13\obj\Debug\net6.0\P13.AssemblyInfoInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P13\obj\Debug\net6.0\P13.AssemblyInfo.cs
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P13\obj\Debug\net6.0\P13.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P13\obj\Debug\net6.0\P13.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P13\obj\Debug\net6.0\refint\P13.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P13\obj\Debug\net6.0\P13.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P13\obj\Debug\net6.0\P13.genruntimeconfig.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\LumoAkatemiaTehtavat\P13\obj\Debug\net6.0\ref\P13.dll

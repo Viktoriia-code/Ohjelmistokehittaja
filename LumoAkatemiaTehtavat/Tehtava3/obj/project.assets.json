@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Viktoriia\\repos\\Ohjelmistokehittaja\\LumoAkatemiaTehtavat\\Tehtava3\\Tehtava3.csproj",
-      "projectName": "Tehtava3",
-      "projectPath": "C:\\Users\\Viktoriia\\repos\\Ohjelmistokehittaja\\LumoAkatemiaTehtavat\\Tehtava3\\Tehtava3.csproj",
+      "projectUniqueName": "C:\\Users\\Viktoriia\\repos\\Ohjelmistokehittaja\\LumoAkatemiaTehtavat\\Tehtava3\\P03.csproj",
+      "projectName": "P03",
+      "projectPath": "C:\\Users\\Viktoriia\\repos\\Ohjelmistokehittaja\\LumoAkatemiaTehtavat\\Tehtava3\\P03.csproj",
       "packagesPath": "C:\\Users\\Viktoriia\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Viktoriia\\repos\\Ohjelmistokehittaja\\LumoAkatemiaTehtavat\\Tehtava3\\obj\\",
       "projectStyle": "PackageReference",
