@@ -1,0 +1,17 @@
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\obj\Debug\net6.0-windows\TekstiVaihto.csproj.AssemblyReference.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\obj\Debug\net6.0-windows\TekstiVaihto.Harjoitus1.resources
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\obj\Debug\net6.0-windows\TekstiVaihto.csproj.GenerateResource.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\obj\Debug\net6.0-windows\TekstiVaihto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\obj\Debug\net6.0-windows\TekstiVaihto.AssemblyInfoInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\obj\Debug\net6.0-windows\TekstiVaihto.AssemblyInfo.cs
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\obj\Debug\net6.0-windows\TekstiVaihto.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\bin\Debug\net6.0-windows\TekstiVaihto.exe
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\bin\Debug\net6.0-windows\TekstiVaihto.deps.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\bin\Debug\net6.0-windows\TekstiVaihto.runtimeconfig.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\bin\Debug\net6.0-windows\TekstiVaihto.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\bin\Debug\net6.0-windows\TekstiVaihto.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\obj\Debug\net6.0-windows\TekstiVaihto.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\obj\Debug\net6.0-windows\refint\TekstiVaihto.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\obj\Debug\net6.0-windows\TekstiVaihto.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\obj\Debug\net6.0-windows\TekstiVaihto.genruntimeconfig.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\obj\Debug\net6.0-windows\ref\TekstiVaihto.dll

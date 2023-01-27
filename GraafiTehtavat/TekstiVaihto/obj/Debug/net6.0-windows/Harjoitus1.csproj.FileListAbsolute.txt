@@ -1,0 +1,17 @@
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\bin\Debug\net6.0-windows\Harjoitus1.exe
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\bin\Debug\net6.0-windows\Harjoitus1.deps.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\bin\Debug\net6.0-windows\Harjoitus1.runtimeconfig.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\bin\Debug\net6.0-windows\Harjoitus1.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\bin\Debug\net6.0-windows\Harjoitus1.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\obj\Debug\net6.0-windows\Harjoitus1.csproj.AssemblyReference.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\obj\Debug\net6.0-windows\TekstiVaihto.Harjoitus1.resources
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\obj\Debug\net6.0-windows\Harjoitus1.csproj.GenerateResource.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\obj\Debug\net6.0-windows\Harjoitus1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\obj\Debug\net6.0-windows\Harjoitus1.AssemblyInfoInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\obj\Debug\net6.0-windows\Harjoitus1.AssemblyInfo.cs
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\obj\Debug\net6.0-windows\Harjoitus1.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\obj\Debug\net6.0-windows\Harjoitus1.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\obj\Debug\net6.0-windows\refint\Harjoitus1.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\obj\Debug\net6.0-windows\Harjoitus1.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\obj\Debug\net6.0-windows\Harjoitus1.genruntimeconfig.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\TekstiVaihto\TekstiVaihto\obj\Debug\net6.0-windows\ref\Harjoitus1.dll
