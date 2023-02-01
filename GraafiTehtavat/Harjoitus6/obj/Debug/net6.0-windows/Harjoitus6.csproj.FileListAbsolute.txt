@@ -1,0 +1,17 @@
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus6\bin\Debug\net6.0-windows\Harjoitus6.exe
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus6\bin\Debug\net6.0-windows\Harjoitus6.deps.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus6\bin\Debug\net6.0-windows\Harjoitus6.runtimeconfig.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus6\bin\Debug\net6.0-windows\Harjoitus6.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus6\bin\Debug\net6.0-windows\Harjoitus6.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus6\obj\Debug\net6.0-windows\Harjoitus6.csproj.AssemblyReference.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus6\obj\Debug\net6.0-windows\Harjoitus6.SalasanaForm.resources
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus6\obj\Debug\net6.0-windows\Harjoitus6.csproj.GenerateResource.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus6\obj\Debug\net6.0-windows\Harjoitus6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus6\obj\Debug\net6.0-windows\Harjoitus6.AssemblyInfoInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus6\obj\Debug\net6.0-windows\Harjoitus6.AssemblyInfo.cs
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus6\obj\Debug\net6.0-windows\Harjoitus6.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus6\obj\Debug\net6.0-windows\Harjoitus6.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus6\obj\Debug\net6.0-windows\refint\Harjoitus6.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus6\obj\Debug\net6.0-windows\Harjoitus6.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus6\obj\Debug\net6.0-windows\Harjoitus6.genruntimeconfig.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus6\obj\Debug\net6.0-windows\ref\Harjoitus6.dll
