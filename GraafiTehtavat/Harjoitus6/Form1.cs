@@ -20,5 +20,17 @@
                 VirheviestiLB.Visible = true;
             }
         }
+
+        private void SalasanaCB_CheckedChanged(object sender, EventArgs e)
+        {
+            if (SalasanaCB.Checked)
+            {
+                SalasanaTB.PasswordChar = '\0';
+            } else
+            {
+                SalasanaTB.PasswordChar = '*';
+            }
+        }
+
     }
 }

@@ -29,14 +29,15 @@
         private void InitializeComponent()
         {
             this.SalasanaPanel = new System.Windows.Forms.Panel();
-            this.SalasanaOikeinPanel = new System.Windows.Forms.Panel();
-            this.label3 = new System.Windows.Forms.Label();
+            this.SalasanaCB = new System.Windows.Forms.CheckBox();
             this.VirheviestiLB = new System.Windows.Forms.Label();
             this.TarkistaBT = new System.Windows.Forms.Button();
             this.SalasanaTB = new System.Windows.Forms.TextBox();
             this.KayttajaTB = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.SalasanaOikeinPanel = new System.Windows.Forms.Panel();
+            this.label3 = new System.Windows.Forms.Label();
             this.SalasanaPanel.SuspendLayout();
             this.SalasanaOikeinPanel.SuspendLayout();
             this.SuspendLayout();
@@ -44,40 +45,31 @@
             // SalasanaPanel
             // 
             this.SalasanaPanel.BackColor = System.Drawing.Color.MidnightBlue;
+            this.SalasanaPanel.Controls.Add(this.SalasanaCB);
             this.SalasanaPanel.Controls.Add(this.VirheviestiLB);
             this.SalasanaPanel.Controls.Add(this.TarkistaBT);
             this.SalasanaPanel.Controls.Add(this.SalasanaTB);
             this.SalasanaPanel.Controls.Add(this.KayttajaTB);
             this.SalasanaPanel.Controls.Add(this.label2);
             this.SalasanaPanel.Controls.Add(this.label1);
+            this.SalasanaPanel.Dock = System.Windows.Forms.DockStyle.Fill;
             this.SalasanaPanel.Font = new System.Drawing.Font("Segoe Script", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.SalasanaPanel.ForeColor = System.Drawing.Color.Gold;
             this.SalasanaPanel.Location = new System.Drawing.Point(0, 0);
             this.SalasanaPanel.Name = "SalasanaPanel";
-            this.SalasanaPanel.Size = new System.Drawing.Size(604, 314);
+            this.SalasanaPanel.Size = new System.Drawing.Size(674, 314);
             this.SalasanaPanel.TabIndex = 0;
             // 
-            // SalasanaOikeinPanel
+            // SalasanaCB
             // 
-            this.SalasanaOikeinPanel.BackColor = System.Drawing.Color.DarkRed;
-            this.SalasanaOikeinPanel.Controls.Add(this.label3);
-            this.SalasanaOikeinPanel.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.SalasanaOikeinPanel.Font = new System.Drawing.Font("Segoe Script", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.SalasanaOikeinPanel.ForeColor = System.Drawing.Color.Snow;
-            this.SalasanaOikeinPanel.Location = new System.Drawing.Point(0, 0);
-            this.SalasanaOikeinPanel.Name = "SalasanaOikeinPanel";
-            this.SalasanaOikeinPanel.Size = new System.Drawing.Size(604, 314);
-            this.SalasanaOikeinPanel.TabIndex = 1;
-            this.SalasanaOikeinPanel.Visible = false;
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(14, 40);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(574, 80);
-            this.label3.TabIndex = 0;
-            this.label3.Text = "Tervetuloa sivuilleni";
+            this.SalasanaCB.AutoSize = true;
+            this.SalasanaCB.Location = new System.Drawing.Point(552, 112);
+            this.SalasanaCB.Name = "SalasanaCB";
+            this.SalasanaCB.Size = new System.Drawing.Size(110, 44);
+            this.SalasanaCB.TabIndex = 6;
+            this.SalasanaCB.Text = "Näytä";
+            this.SalasanaCB.UseVisualStyleBackColor = true;
+            this.SalasanaCB.CheckedChanged += new System.EventHandler(this.SalasanaCB_CheckedChanged);
             // 
             // VirheviestiLB
             // 
@@ -105,6 +97,7 @@
             this.SalasanaTB.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.SalasanaTB.Location = new System.Drawing.Point(271, 113);
             this.SalasanaTB.Name = "SalasanaTB";
+            this.SalasanaTB.PasswordChar = '*';
             this.SalasanaTB.Size = new System.Drawing.Size(257, 39);
             this.SalasanaTB.TabIndex = 3;
             // 
@@ -134,11 +127,33 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Käyttäjätunnus:";
             // 
+            // SalasanaOikeinPanel
+            // 
+            this.SalasanaOikeinPanel.BackColor = System.Drawing.Color.DarkRed;
+            this.SalasanaOikeinPanel.Controls.Add(this.label3);
+            this.SalasanaOikeinPanel.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.SalasanaOikeinPanel.Font = new System.Drawing.Font("Segoe Script", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.SalasanaOikeinPanel.ForeColor = System.Drawing.Color.Snow;
+            this.SalasanaOikeinPanel.Location = new System.Drawing.Point(0, 0);
+            this.SalasanaOikeinPanel.Name = "SalasanaOikeinPanel";
+            this.SalasanaOikeinPanel.Size = new System.Drawing.Size(674, 314);
+            this.SalasanaOikeinPanel.TabIndex = 1;
+            this.SalasanaOikeinPanel.Visible = false;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(14, 40);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(574, 80);
+            this.label3.TabIndex = 0;
+            this.label3.Text = "Tervetuloa sivuilleni";
+            // 
             // SalasanaForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(604, 314);
+            this.ClientSize = new System.Drawing.Size(674, 314);
             this.Controls.Add(this.SalasanaPanel);
             this.Controls.Add(this.SalasanaOikeinPanel);
             this.Name = "SalasanaForm";
@@ -162,5 +177,6 @@
         private Label label1;
         private Panel SalasanaOikeinPanel;
         private Label label3;
+        private CheckBox SalasanaCB;
     }
 }
