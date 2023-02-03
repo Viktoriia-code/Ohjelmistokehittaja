@@ -15,3 +15,4 @@ C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus7\obj\Debug
 C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus7\obj\Debug\net6.0-windows\Harjoitus7.pdb
 C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus7\obj\Debug\net6.0-windows\Harjoitus7.genruntimeconfig.cache
 C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus7\obj\Debug\net6.0-windows\ref\Harjoitus7.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus7\obj\Debug\net6.0-windows\Harjoitus7.Properties.Resources.resources

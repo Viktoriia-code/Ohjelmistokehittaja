@@ -48,23 +48,25 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(12, 85);
+            this.label2.Font = new System.Drawing.Font("Constantia", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label2.Location = new System.Drawing.Point(80, 82);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(497, 23);
+            this.label2.Size = new System.Drawing.Size(344, 58);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Anna numero välillä 1-3999, niin muutan sen roomalaiseksi:";
+            this.label2.Text = "Anna numero välillä 1-3999, \r\nniin muutan sen roomalaiseksi:";
             // 
             // LatinaNroTB
             // 
-            this.LatinaNroTB.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.LatinaNroTB.Location = new System.Drawing.Point(528, 82);
+            this.LatinaNroTB.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.LatinaNroTB.Location = new System.Drawing.Point(472, 93);
             this.LatinaNroTB.Name = "LatinaNroTB";
-            this.LatinaNroTB.Size = new System.Drawing.Size(97, 31);
+            this.LatinaNroTB.Size = new System.Drawing.Size(97, 38);
             this.LatinaNroTB.TabIndex = 2;
             // 
             // muutaBT
             // 
-            this.muutaBT.Location = new System.Drawing.Point(281, 142);
+            this.muutaBT.Font = new System.Drawing.Font("Constantia", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.muutaBT.Location = new System.Drawing.Point(281, 162);
             this.muutaBT.Name = "muutaBT";
             this.muutaBT.Size = new System.Drawing.Size(96, 38);
             this.muutaBT.TabIndex = 3;
@@ -75,10 +77,10 @@
             // vastausLB
             // 
             this.vastausLB.AutoSize = true;
-            this.vastausLB.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.vastausLB.Location = new System.Drawing.Point(284, 230);
+            this.vastausLB.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.vastausLB.Location = new System.Drawing.Point(281, 230);
             this.vastausLB.Name = "vastausLB";
-            this.vastausLB.Size = new System.Drawing.Size(93, 29);
+            this.vastausLB.Size = new System.Drawing.Size(109, 31);
             this.vastausLB.TabIndex = 4;
             this.vastausLB.Text = "vastaus";
             this.vastausLB.Visible = false;
