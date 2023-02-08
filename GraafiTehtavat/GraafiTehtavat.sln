@@ -19,9 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus7", "Harjoitus7\Ha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus8", "Harjoitus8\Harjoitus8.csproj", "{22564E28-DC4D-48BE-9AE5-D53E4514E803}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus9", "Harjoitus9\Harjoitus9.csproj", "{7B0ED393-A97A-4181-A320-B1513EA11BD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus9", "Harjoitus9\Harjoitus9.csproj", "{7B0ED393-A97A-4181-A320-B1513EA11BD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus10", "Harjoitus10\Harjoitus10.csproj", "{1510231C-29CC-40D3-9B93-861DB6D265F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus10", "Harjoitus10\Harjoitus10.csproj", "{1510231C-29CC-40D3-9B93-861DB6D265F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus11", "Harjoitus11\Harjoitus11.csproj", "{F510D187-F03F-402B-81EE-93B5EC3E94C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus12", "Harjoitus12\Harjoitus12.csproj", "{B64DCFF4-44F0-4521-A71F-A27294E56B96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{1510231C-29CC-40D3-9B93-861DB6D265F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1510231C-29CC-40D3-9B93-861DB6D265F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1510231C-29CC-40D3-9B93-861DB6D265F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F510D187-F03F-402B-81EE-93B5EC3E94C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F510D187-F03F-402B-81EE-93B5EC3E94C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F510D187-F03F-402B-81EE-93B5EC3E94C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F510D187-F03F-402B-81EE-93B5EC3E94C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B64DCFF4-44F0-4521-A71F-A27294E56B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B64DCFF4-44F0-4521-A71F-A27294E56B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B64DCFF4-44F0-4521-A71F-A27294E56B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B64DCFF4-44F0-4521-A71F-A27294E56B96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
