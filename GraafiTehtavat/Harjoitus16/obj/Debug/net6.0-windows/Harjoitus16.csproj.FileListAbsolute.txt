@@ -1,0 +1,17 @@
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus16\bin\Debug\net6.0-windows\Harjoitus16.exe
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus16\bin\Debug\net6.0-windows\Harjoitus16.deps.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus16\bin\Debug\net6.0-windows\Harjoitus16.runtimeconfig.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus16\bin\Debug\net6.0-windows\Harjoitus16.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus16\bin\Debug\net6.0-windows\Harjoitus16.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus16\obj\Debug\net6.0-windows\Harjoitus16.csproj.AssemblyReference.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus16\obj\Debug\net6.0-windows\Harjoitus16.CountDownForm.resources
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus16\obj\Debug\net6.0-windows\Harjoitus16.csproj.GenerateResource.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus16\obj\Debug\net6.0-windows\Harjoitus16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus16\obj\Debug\net6.0-windows\Harjoitus16.AssemblyInfoInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus16\obj\Debug\net6.0-windows\Harjoitus16.AssemblyInfo.cs
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus16\obj\Debug\net6.0-windows\Harjoitus16.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus16\obj\Debug\net6.0-windows\Harjoitus16.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus16\obj\Debug\net6.0-windows\refint\Harjoitus16.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus16\obj\Debug\net6.0-windows\Harjoitus16.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus16\obj\Debug\net6.0-windows\Harjoitus16.genruntimeconfig.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus16\obj\Debug\net6.0-windows\ref\Harjoitus16.dll
