@@ -19,8 +19,8 @@ namespace Harjoitus16
                 MinutesCB.Items.Add(i.ToString());
                 SecondsCB.Items.Add(i.ToString());
             }
-            MinutesCB.SelectedIndex = 30;
-            SecondsCB.SelectedIndex = 0;
+            MinutesCB.SelectedIndex = 0;
+            SecondsCB.SelectedIndex = 10;
         }
 
         private void StartBT_Click(object sender, EventArgs e)
@@ -32,11 +32,9 @@ namespace Harjoitus16
             int seconds = int.Parse(SecondsCB.SelectedItem.ToString());
             kokonaisaika = (minutes * 60) + seconds;
             CountDownTimerTM.Enabled = true;
-            if (TimeLB.Text != "00:00")
-            {
-                int minutes = int.Parse(TimeLB.Text.Substring(0, 2));
-                int seconds = int.Parse(TimeLB.Text.Substring(3, 2));
-            }
+            string mins = String.Format("{0,2:D2}", minutes);
+            string secs = String.Format("{0,2:D2}", seconds);
+            TimeLB.Text = mins + ":" + secs;
         }
 
         private void StopBT_Click(object sender, EventArgs e)
@@ -56,12 +54,15 @@ namespace Harjoitus16
                 kokonaisaika--;
                 int minutes = kokonaisaika / 60;
                 int seconds = kokonaisaika - (minutes * 60);
-                TimeLB.Text = minutes.ToString() + ":" + seconds.ToString();
+                string mins = String.Format("{0,2:D2}", minutes);
+                string secs = String.Format("{0,2:D2}", seconds);
+                TimeLB.Text = mins + ":" + secs;
             }
             else
             {
                 CountDownTimerTM.Stop();
                 MessageBox.Show("Aikasi loppui!");
+                StopBT_Click(sender,e);
             }
         }
     }
