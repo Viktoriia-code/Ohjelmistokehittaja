@@ -9,7 +9,7 @@ namespace Harjoitus17
         {
             InitializeComponent();
         }
-
+        // Tiedosto -> Avaa
         private void avaaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             using (OpenFileDialog atk = new OpenFileDialog()
@@ -26,22 +26,59 @@ namespace Harjoitus17
                 }
             }
         }
-
+        // Tiedosto -> Uusi
         private void uusiToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            TekstilaatikkoRTB.Text = "";
+            if (TekstilaatikkoRTB.Text != "")
+            {
+                tallennaNimelläToolStripMenuItem_Click(sender, e);
+                TekstilaatikkoRTB.Text = "";
+            }
+            else
+            {
+                TekstilaatikkoRTB.Text = "";
+            }
         }
-
+        // Tiedosto -> Tallenna
         private void tallennaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            if(string.IsNullOrEmpty(tiedostopolku))
+            {
+                using (SaveFileDialog ttk = new SaveFileDialog()
+                { Filter = "Rikastekstiformaatti|*.rtf", ValidateNames = true })
+                {
+                    if(ttk.ShowDialog()==DialogResult.OK)
+                    {
+                        StreamWriter tiedosto = new StreamWriter(ttk.FileName);
+                        tiedosto.WriteLine(this.TekstilaatikkoRTB.Rtf);
+                        tiedosto.Close();
+                    }
+                }
+            }
+            else
+            {
+                using (StreamWriter vk = new StreamWriter(tiedostopolku))
+                {
+                    vk.WriteLineAsync(TekstilaatikkoRTB.Rtf);
+                }
+            }
         }
-
+        // Tiedosto -> Tallenna nimellä
         private void tallennaNimelläToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            using (SaveFileDialog ttk = new SaveFileDialog()
+            { Filter = "TextDocument|*.txt", ValidateNames = true })
+            {
+                if (ttk.ShowDialog() == DialogResult.OK)
+                {
+                    using (StreamWriter jonokirjoittaja = new StreamWriter(ttk.FileName))
+                    {
+                        jonokirjoittaja.WriteLineAsync(TekstilaatikkoRTB.Text);
+                    }
+                }
+            }
         }
-
+        // Tiedosto -> Tulostuksen esikatselu
         private void tulostuksenEsikatseluToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
