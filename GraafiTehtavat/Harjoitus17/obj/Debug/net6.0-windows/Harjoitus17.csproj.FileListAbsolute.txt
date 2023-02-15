@@ -1,0 +1,17 @@
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\bin\Debug\net6.0-windows\Harjoitus17.exe
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\bin\Debug\net6.0-windows\Harjoitus17.deps.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\bin\Debug\net6.0-windows\Harjoitus17.runtimeconfig.json
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\bin\Debug\net6.0-windows\Harjoitus17.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\bin\Debug\net6.0-windows\Harjoitus17.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\obj\Debug\net6.0-windows\Harjoitus17.csproj.AssemblyReference.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\obj\Debug\net6.0-windows\Harjoitus17.Muistio.resources
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\obj\Debug\net6.0-windows\Harjoitus17.csproj.GenerateResource.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\obj\Debug\net6.0-windows\Harjoitus17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\obj\Debug\net6.0-windows\Harjoitus17.AssemblyInfoInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\obj\Debug\net6.0-windows\Harjoitus17.AssemblyInfo.cs
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\obj\Debug\net6.0-windows\Harjoitus17.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\obj\Debug\net6.0-windows\Harjoitus17.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\obj\Debug\net6.0-windows\refint\Harjoitus17.dll
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\obj\Debug\net6.0-windows\Harjoitus17.pdb
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\obj\Debug\net6.0-windows\Harjoitus17.genruntimeconfig.cache
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\obj\Debug\net6.0-windows\ref\Harjoitus17.dll
