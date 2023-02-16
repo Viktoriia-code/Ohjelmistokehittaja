@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Muistio));
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.tiedostoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.uusiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -57,6 +58,10 @@
             this.TekstilaatikkoRTB = new System.Windows.Forms.RichTextBox();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
+            this.printPreviewDialog1 = new System.Windows.Forms.PrintPreviewDialog();
+            this.printDialog1 = new System.Windows.Forms.PrintDialog();
+            this.printDocument1 = new System.Drawing.Printing.PrintDocument();
+            this.fontDialog1 = new System.Windows.Forms.FontDialog();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -174,6 +179,7 @@
             this.undoToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Z)));
             this.undoToolStripMenuItem.Size = new System.Drawing.Size(182, 22);
             this.undoToolStripMenuItem.Text = "Undo";
+            this.undoToolStripMenuItem.Click += new System.EventHandler(this.undoToolStripMenuItem_Click);
             // 
             // redoToolStripMenuItem
             // 
@@ -181,6 +187,7 @@
             this.redoToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Y)));
             this.redoToolStripMenuItem.Size = new System.Drawing.Size(182, 22);
             this.redoToolStripMenuItem.Text = "Redo";
+            this.redoToolStripMenuItem.Click += new System.EventHandler(this.redoToolStripMenuItem_Click);
             // 
             // toolStripMenuItem3
             // 
@@ -193,6 +200,7 @@
             this.kopioiToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.C)));
             this.kopioiToolStripMenuItem.Size = new System.Drawing.Size(182, 22);
             this.kopioiToolStripMenuItem.Text = "Kopioi";
+            this.kopioiToolStripMenuItem.Click += new System.EventHandler(this.kopioiToolStripMenuItem_Click);
             // 
             // leikkaaToolStripMenuItem
             // 
@@ -200,6 +208,7 @@
             this.leikkaaToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.X)));
             this.leikkaaToolStripMenuItem.Size = new System.Drawing.Size(182, 22);
             this.leikkaaToolStripMenuItem.Text = "Leikkaa";
+            this.leikkaaToolStripMenuItem.Click += new System.EventHandler(this.leikkaaToolStripMenuItem_Click);
             // 
             // liitäToolStripMenuItem
             // 
@@ -207,12 +216,14 @@
             this.liitäToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.V)));
             this.liitäToolStripMenuItem.Size = new System.Drawing.Size(182, 22);
             this.liitäToolStripMenuItem.Text = "Liitä";
+            this.liitäToolStripMenuItem.Click += new System.EventHandler(this.liitäToolStripMenuItem_Click);
             // 
             // poistaToolStripMenuItem
             // 
             this.poistaToolStripMenuItem.Name = "poistaToolStripMenuItem";
             this.poistaToolStripMenuItem.Size = new System.Drawing.Size(182, 22);
             this.poistaToolStripMenuItem.Text = "Poista";
+            this.poistaToolStripMenuItem.Click += new System.EventHandler(this.poistaToolStripMenuItem_Click);
             // 
             // valitseKaikkiToolStripMenuItem
             // 
@@ -220,6 +231,7 @@
             this.valitseKaikkiToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.A)));
             this.valitseKaikkiToolStripMenuItem.Size = new System.Drawing.Size(182, 22);
             this.valitseKaikkiToolStripMenuItem.Text = "Valitse kaikki";
+            this.valitseKaikkiToolStripMenuItem.Click += new System.EventHandler(this.valitseKaikkiToolStripMenuItem_Click);
             // 
             // muotoileToolStripMenuItem
             // 
@@ -234,20 +246,23 @@
             // kirjasinToolStripMenuItem
             // 
             this.kirjasinToolStripMenuItem.Name = "kirjasinToolStripMenuItem";
-            this.kirjasinToolStripMenuItem.Size = new System.Drawing.Size(158, 22);
+            this.kirjasinToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.kirjasinToolStripMenuItem.Text = "Kirjasin";
+            this.kirjasinToolStripMenuItem.Click += new System.EventHandler(this.kirjasinToolStripMenuItem_Click);
             // 
             // tekstinKorostusToolStripMenuItem
             // 
             this.tekstinKorostusToolStripMenuItem.Name = "tekstinKorostusToolStripMenuItem";
-            this.tekstinKorostusToolStripMenuItem.Size = new System.Drawing.Size(158, 22);
+            this.tekstinKorostusToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.tekstinKorostusToolStripMenuItem.Text = "Tekstin korostus";
+            this.tekstinKorostusToolStripMenuItem.Click += new System.EventHandler(this.tekstinKorostusToolStripMenuItem_Click);
             // 
             // tekstinRivittysToolStripMenuItem
             // 
             this.tekstinRivittysToolStripMenuItem.Name = "tekstinRivittysToolStripMenuItem";
-            this.tekstinRivittysToolStripMenuItem.Size = new System.Drawing.Size(158, 22);
+            this.tekstinRivittysToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.tekstinRivittysToolStripMenuItem.Text = "Tekstin rivittys";
+            this.tekstinRivittysToolStripMenuItem.Click += new System.EventHandler(this.tekstinRivittysToolStripMenuItem_Click);
             // 
             // apuaToolStripMenuItem
             // 
@@ -260,8 +275,9 @@
             // tietoaToolStripMenuItem
             // 
             this.tietoaToolStripMenuItem.Name = "tietoaToolStripMenuItem";
-            this.tietoaToolStripMenuItem.Size = new System.Drawing.Size(106, 22);
+            this.tietoaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.tietoaToolStripMenuItem.Text = "Tietoa";
+            this.tietoaToolStripMenuItem.Click += new System.EventHandler(this.tietoaToolStripMenuItem_Click);
             // 
             // TekstilaatikkoRTB
             // 
@@ -271,10 +287,29 @@
             this.TekstilaatikkoRTB.Size = new System.Drawing.Size(800, 426);
             this.TekstilaatikkoRTB.TabIndex = 1;
             this.TekstilaatikkoRTB.Text = "";
+            this.TekstilaatikkoRTB.TextChanged += new System.EventHandler(this.TekstilaatikkoRTB_TextChanged);
             // 
             // openFileDialog1
             // 
             this.openFileDialog1.FileName = "openFileDialog1";
+            // 
+            // printPreviewDialog1
+            // 
+            this.printPreviewDialog1.AutoScrollMargin = new System.Drawing.Size(0, 0);
+            this.printPreviewDialog1.AutoScrollMinSize = new System.Drawing.Size(0, 0);
+            this.printPreviewDialog1.ClientSize = new System.Drawing.Size(400, 300);
+            this.printPreviewDialog1.Enabled = true;
+            this.printPreviewDialog1.Icon = ((System.Drawing.Icon)(resources.GetObject("printPreviewDialog1.Icon")));
+            this.printPreviewDialog1.Name = "printPreviewDialog1";
+            this.printPreviewDialog1.Visible = false;
+            // 
+            // printDialog1
+            // 
+            this.printDialog1.UseEXDialog = true;
+            // 
+            // printDocument1
+            // 
+            this.printDocument1.PrintPage += new System.Drawing.Printing.PrintPageEventHandler(this.printDocument1_PrintPage);
             // 
             // Muistio
             // 
@@ -325,5 +360,9 @@
         private ToolStripMenuItem tietoaToolStripMenuItem;
         private OpenFileDialog openFileDialog1;
         private SaveFileDialog saveFileDialog1;
+        private PrintPreviewDialog printPreviewDialog1;
+        private PrintDialog printDialog1;
+        private System.Drawing.Printing.PrintDocument printDocument1;
+        private FontDialog fontDialog1;
     }
 }
