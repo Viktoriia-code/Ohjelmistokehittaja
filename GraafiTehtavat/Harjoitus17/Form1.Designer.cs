@@ -1,6 +1,6 @@
 ﻿namespace Harjoitus17
 {
-    partial class Muistio
+    partial class MuistioForm
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Muistio));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MuistioForm));
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.tiedostoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.uusiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -246,21 +246,21 @@
             // kirjasinToolStripMenuItem
             // 
             this.kirjasinToolStripMenuItem.Name = "kirjasinToolStripMenuItem";
-            this.kirjasinToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.kirjasinToolStripMenuItem.Size = new System.Drawing.Size(158, 22);
             this.kirjasinToolStripMenuItem.Text = "Kirjasin";
             this.kirjasinToolStripMenuItem.Click += new System.EventHandler(this.kirjasinToolStripMenuItem_Click);
             // 
             // tekstinKorostusToolStripMenuItem
             // 
             this.tekstinKorostusToolStripMenuItem.Name = "tekstinKorostusToolStripMenuItem";
-            this.tekstinKorostusToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.tekstinKorostusToolStripMenuItem.Size = new System.Drawing.Size(158, 22);
             this.tekstinKorostusToolStripMenuItem.Text = "Tekstin korostus";
             this.tekstinKorostusToolStripMenuItem.Click += new System.EventHandler(this.tekstinKorostusToolStripMenuItem_Click);
             // 
             // tekstinRivittysToolStripMenuItem
             // 
             this.tekstinRivittysToolStripMenuItem.Name = "tekstinRivittysToolStripMenuItem";
-            this.tekstinRivittysToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.tekstinRivittysToolStripMenuItem.Size = new System.Drawing.Size(158, 22);
             this.tekstinRivittysToolStripMenuItem.Text = "Tekstin rivittys";
             this.tekstinRivittysToolStripMenuItem.Click += new System.EventHandler(this.tekstinRivittysToolStripMenuItem_Click);
             // 
@@ -275,7 +275,7 @@
             // tietoaToolStripMenuItem
             // 
             this.tietoaToolStripMenuItem.Name = "tietoaToolStripMenuItem";
-            this.tietoaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.tietoaToolStripMenuItem.Size = new System.Drawing.Size(106, 22);
             this.tietoaToolStripMenuItem.Text = "Tietoa";
             this.tietoaToolStripMenuItem.Click += new System.EventHandler(this.tietoaToolStripMenuItem_Click);
             // 
@@ -311,7 +311,7 @@
             // 
             this.printDocument1.PrintPage += new System.Drawing.Printing.PrintPageEventHandler(this.printDocument1_PrintPage);
             // 
-            // Muistio
+            // MuistioForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -320,7 +320,7 @@
             this.Controls.Add(this.TekstilaatikkoRTB);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
-            this.Name = "Muistio";
+            this.Name = "MuistioForm";
             this.Text = "Muistio";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();

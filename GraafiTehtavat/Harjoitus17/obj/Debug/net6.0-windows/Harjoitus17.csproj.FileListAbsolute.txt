@@ -4,7 +4,6 @@ C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\bin\Debu
 C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\bin\Debug\net6.0-windows\Harjoitus17.dll
 C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\bin\Debug\net6.0-windows\Harjoitus17.pdb
 C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\obj\Debug\net6.0-windows\Harjoitus17.csproj.AssemblyReference.cache
-C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\obj\Debug\net6.0-windows\Harjoitus17.Muistio.resources
 C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\obj\Debug\net6.0-windows\Harjoitus17.csproj.GenerateResource.cache
 C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\obj\Debug\net6.0-windows\Harjoitus17.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\obj\Debug\net6.0-windows\Harjoitus17.AssemblyInfoInputs.cache
@@ -16,3 +15,4 @@ C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\obj\Debu
 C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\obj\Debug\net6.0-windows\Harjoitus17.genruntimeconfig.cache
 C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\obj\Debug\net6.0-windows\ref\Harjoitus17.dll
 C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\obj\Debug\net6.0-windows\Harjoitus17.tietoa.resources
+C:\Users\Viktoriia\repos\Ohjelmistokehittaja\GraafiTehtavat\Harjoitus17\obj\Debug\net6.0-windows\Harjoitus17.MuistioForm.resources

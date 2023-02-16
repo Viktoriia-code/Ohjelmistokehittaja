@@ -11,65 +11,90 @@ using System.IO;
 
 namespace Harjoitus17
 {
-    public partial class Muistio : Form
+    public partial class MuistioForm : Form
     {
         string tiedostopolku = "";
-        public Muistio()
+        public MuistioForm()
         {
             InitializeComponent();
         }
         // Tiedosto -> Avaa
         private void avaaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            using (OpenFileDialog atk = new OpenFileDialog()
-            { Filter = "TextDocument|*.txt|Rich Text Format|*.rtf", ValidateNames = true, Multiselect = false })
+            try
             {
-                if (atk.ShowDialog() == DialogResult.OK)
+                using (OpenFileDialog atk = new OpenFileDialog()
+                { Filter = "TextDocument|*.txt|Rich Text Format|*.rtf", ValidateNames = true, Multiselect = false })
                 {
-                    using (StreamReader vl = new StreamReader(atk.FileName))
+                    if (atk.ShowDialog() == DialogResult.OK)
                     {
-                        tiedostopolku = atk.FileName;
-                        Task<string> text = vl.ReadToEndAsync();
-                        TekstilaatikkoRTB.Rtf = text.Result;
+                        using (StreamReader vl = new StreamReader(atk.FileName))
+                        {
+                            tiedostopolku = atk.FileName;
+                            Text = tiedostopolku;
+                            TekstilaatikkoRTB.Text = File.ReadAllText(tiedostopolku);
+                            Task<string> teksti = vl.ReadToEndAsync();
+                            TekstilaatikkoRTB.Rtf = teksti.Result;
+                        }
                     }
                 }
             }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Virhe avattaessa tiedostoa: " + ex.Message);
+            } 
         }
         // Tiedosto -> Uusi
         private void uusiToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if (TekstilaatikkoRTB.Text != "")
+            try
             {
-                tallennaNimelläToolStripMenuItem_Click(sender, e);
-                TekstilaatikkoRTB.Text = "";
+                if (!string.IsNullOrEmpty(TekstilaatikkoRTB.Text))
+                {
+                    MessageBox.Show("Sinun tulee tallentaa ensin.");
+                    tallennaNimelläToolStripMenuItem_Click(sender, e);
+                    TekstilaatikkoRTB.Text = "";
+                }
+                else
+                {
+                    TekstilaatikkoRTB.Text = string.Empty;
+                    Text = "Nimetön";
+                }
             }
-            else
+            catch (Exception ex)
             {
-                TekstilaatikkoRTB.Text = "";
+                MessageBox.Show("Virhe: " + ex.Message);
             }
         }
         // Tiedosto -> Tallenna
         private void tallennaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if(string.IsNullOrEmpty(tiedostopolku))
+            try
             {
-                using (SaveFileDialog ttk = new SaveFileDialog()
-                { Filter = "TextDocument|*.txt|Rich Text Format|*.rtf", ValidateNames = true })
+                if (!string.IsNullOrEmpty(tiedostopolku))
                 {
-                    if(ttk.ShowDialog()==DialogResult.OK)
+                    using (SaveFileDialog ttk = new SaveFileDialog()
+                    { Filter = "TextDocument|*.txt|Rich Text Format|*.rtf", ValidateNames = true })
                     {
-                        StreamWriter tiedosto = new StreamWriter(ttk.FileName);
-                        tiedosto.WriteLine(this.TekstilaatikkoRTB.Rtf);
-                        tiedosto.Close();
+                        if (ttk.ShowDialog()==DialogResult.OK)
+                        {
+                            StreamWriter tiedosto = new StreamWriter(ttk.FileName);
+                            tiedosto.WriteLine(this.TekstilaatikkoRTB.Rtf);
+                            tiedosto.Close();
+                        }
+                    }
+                }
+                else
+                {
+                    using(StreamWriter vk = new StreamWriter(tiedostopolku))
+                    {
+                        vk.WriteLineAsync(TekstilaatikkoRTB.Rtf);
                     }
                 }
             }
-            else
+            catch (Exception ex)
             {
-                using (StreamWriter vk = new StreamWriter(tiedostopolku))
-                {
-                    vk.WriteLineAsync(TekstilaatikkoRTB.Rtf);
-                }
+                MessageBox.Show("Virhe: " + ex.Message);
             }
         }
         // Tiedosto -> Tallenna nimellä
